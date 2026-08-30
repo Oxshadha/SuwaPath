@@ -15,8 +15,6 @@ at a facility that can actually run the test you need.
 
 `FastAPI` · `PostgreSQL` · `LangGraph` · `Groq` · `Qdrant` · `React` · `TypeScript` · `Tailwind`
 
-Built for **AI Buildathon 2026** · Team **Gmora** · SDG 3 — Good Health and Well-Being
-
 </div>
 
 ---
@@ -1588,6 +1586,6 @@ institution is claimed or implied.
 
 <div align="center">
 
-**SuwaPath** · Team Gmora · AI Buildathon 2026
+**SuwaPath**
 
 </div>
