@@ -43,7 +43,7 @@ services:
       - qdrant_storage:/qdrant/storage
 
   backend:
-    image: ghcr.io/pasidu-mihiranga/suwapath-api:latest
+    image: ghcr.io/oxshadha/suwapath-api:latest
     restart: unless-stopped
     env_file:
       - .env

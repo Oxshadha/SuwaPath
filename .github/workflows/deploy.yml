@@ -8,7 +8,7 @@ on:
 env:
   REGISTRY: ghcr.io
   # Hardcoded lowercase: GHCR rejects uppercase in image refs
-  IMAGE_NAME: pasidu-mihiranga/suwapath-api
+  IMAGE_NAME: oxshadha/suwapath-api
   MODEL_RELEASE_TAG: models-v1
 
 jobs:
